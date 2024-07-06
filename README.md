@@ -3,6 +3,7 @@
 Welcome to the Self-Driving Car Simulation project! This project demonstrates a web-based simulation of self-driving cars using JavaScript, HTML5 canvas, and neural networks. Compete with AI-trained cars and experience the future of autonomous driving.
 
 ![Self-Driving Car Simulation](./self-drive.png)
+![Self-Driving Car Simulation](./self-drive2.png)
 
 ## Features
 
